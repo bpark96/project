@@ -7,3 +7,9 @@ filter_years <- function(dataset = data){
     filter(years > 1997)
   return(new_data)
 }
+
+
+calc_vol <- function(length=1, width=1, height=1){
+  volume <- length * width * height
+  return(volume)
+}
