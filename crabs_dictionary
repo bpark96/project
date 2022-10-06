@@ -1,6 +1,6 @@
 The dataset "crabs" contains 8 columns of data which are explained below.
 
-color: This escribes the main color of the body of the crab.
+color: This describes the main color of the body of the crab.
 sex: This distinguishes between male "M" and female "F" crabs.
 frontal_lobe: This describes the measurement (in mm) across the frontal spines of the crab, between its antennae.
 rear_width: This describes the measurement (in mm) across the rear of the crab's body, between its swimming legs.
