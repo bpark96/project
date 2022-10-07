@@ -1,0 +1,15 @@
+This text file will give brief insight into each of the different columns in the surveys_complete dataset.
+
+record_id: This lists the unique numerical identifier given to each individual specimen.
+month: This indicates the month (1-12) that each specimen was captured.
+day: This indicates the specific day of that month in which each specimen was captured.
+year: This indicates the year that each specimen was captured.
+plot_id: This indicates the plot from which each sample was taken.
+species_id: This lists the two-letter identifier assigned to each species.
+sex: This indicates male "M" or female "F".
+hindfoot_length: This indicates the length of the animal's hind foot, in mm.
+weight: This indicates the weight of the animal in grams.
+genus: This indicates the genus under which each animal belongs.
+species: This indicates the species under which each animal belongs.
+taxa: This indicates the actual type of animal, i.e. "Rodent."
+plot_type: This indicates the type of plot from which each sample was taken, i.e. the "Control."
