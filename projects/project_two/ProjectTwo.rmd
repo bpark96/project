@@ -136,13 +136,20 @@ The relationship between variables is always going to vary, as 'correlation is n
 1) Add and commit this document (5 pts)
 
 ```
-#Commands here
+# Navigate to Git tab
+# Select the .rmd and .csv files stored in project_two folder
+# Commit
+# Enter commit message
+# Commit
 ```
 
 2) Push your changes to github (10 pts)
 
 ```
-#Commands here
+# Load library(gitcreds)
+# Use gitcreds_set() command
+# Copy and paste GIT token, hit enter
+# Push (green upward arrow)
 ```
 
 
